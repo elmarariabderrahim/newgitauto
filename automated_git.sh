@@ -1,3 +1,6 @@
+git init
 git add .
-git commit -m "committing..."
-git push origin HEAD:master
+git commit -m "first commit"
+git remote add origin https://github.com/elmarariabderrahim/gitautomation.git
+git push -u origin master
+
